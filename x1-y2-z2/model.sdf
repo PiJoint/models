@@ -37,8 +37,8 @@
 		    </collision>
 		    <visual name="top_visual">
 				<material>  <!-- Non so quali effettivamente servano ma li settiamo tutti uguali e funzia, magari poi la telecamera si fotte quindi é meglio evitare casini-->
-					<ambient>0 40 150 1</ambient>
-					<diffuse>0 75 190 1</diffuse>
+					<ambient>235 235 0 1</ambient>
+					<diffuse>255 255 0 1</diffuse>
 					<specular>0 0 0 1</specular>
 					<emissive>0 0 0 1</emissive>
 				</material> 
